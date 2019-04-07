@@ -12,3 +12,8 @@ Steps:
 7) Once on that page, I need to check that the the properties listed there belong to the same mentioned agent on the page.
 
 Youtube Link: https://www.youtube.com/watch?v=s9KmYPiRYws&feature=youtu.be&fbclid=IwAR3SGMp4zxlamk2-BMQqTJt1MxKod0e2amtbqhYGIqftDRL3mRbAPhr8NOQ
+
+# Test Execution
+1. Run tests.xml located under src/test/resources folder as a TestNg Suite.
+2. By default browser is set as chrome, can update to firefox by setting the browser property in tests.xml
+3. Can also run the tests by running as maven build.

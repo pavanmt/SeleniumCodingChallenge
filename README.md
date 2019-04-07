@@ -13,7 +13,7 @@ Steps:
 
 Youtube Link: https://www.youtube.com/watch?v=s9KmYPiRYws&feature=youtu.be&fbclid=IwAR3SGMp4zxlamk2-BMQqTJt1MxKod0e2amtbqhYGIqftDRL3mRbAPhr8NOQ
 
-#Framework Walkthrogh
+# Framework Walkthrogh
 This framework is developed using Java TestNg framework with page factory design pattern. The page bases are defined under src/main and the tests are written under src/tests.
 
 # Test Execution

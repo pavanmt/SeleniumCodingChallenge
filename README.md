@@ -13,6 +13,9 @@ Steps:
 
 Youtube Link: https://www.youtube.com/watch?v=s9KmYPiRYws&feature=youtu.be&fbclid=IwAR3SGMp4zxlamk2-BMQqTJt1MxKod0e2amtbqhYGIqftDRL3mRbAPhr8NOQ
 
+#Framework Walkthrogh
+This framework is developed using Java TestNg framework with page factory design pattern. The page bases are defined under src/main and the tests are written under src/tests.
+
 # Test Execution
 1. Run tests.xml located under src/test/resources folder as a TestNg Suite.
 2. By default browser is set as chrome, can update to firefox by setting the browser property in tests.xml
